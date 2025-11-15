@@ -80,7 +80,7 @@ This project is a Business Intelligence (BI) application developed as part of an
 
 The following diagram illustrates the relationships between the tables:
 
-![Database Schema](Table%20management.png)
+![Database Schema](Visualizations/Table%20management.png)
 
 The database uses a relational structure with primary and foreign keys to maintain data integrity:
 - **vendor** is linked to **productvendor** via `businessentityid`
@@ -150,17 +150,17 @@ The project includes several interactive reports:
 Below are screenshots of some key visualizations from the Power BI reports:
 
 #### Visualization 1: Top Products Analysis
-![Top Products Visualization](Viz%201.png)
+![Top Products Visualization](Visualizations/Viz%201.png)
 
 This visualization shows the top-selling products with detailed metrics including order quantities and revenue contribution.
 
 #### Visualization 2: Vendor Performance Dashboard
-![Vendor Performance](Viz%202.png)
+![Vendor Performance](Visualizations/Viz%202.png)
 
 An interactive dashboard displaying vendor performance metrics, including order volumes, delivery times, and quality ratings.
 
 #### Visualization 3: Trend Analysis
-![Trend Analysis](Viz%203.png)
+![Trend Analysis](Visualizations/Viz%203.png)
 
 Time-series analysis showing purchase trends, seasonal patterns, and forecasting insights.
 
