@@ -6,7 +6,7 @@ This project is a Business Intelligence (BI) application developed as part of an
 
 ---
 
-## Objectives
+## Realisations
 
 - Design and implementation of an optimized relational database
 - Creation of complex SQL queries for data analysis
